@@ -29,13 +29,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/-Develop-a-movie-recommendation-engine.git
+$ git clone git@github.com:Taher-web-dev/-Anticipate-aircraft-flight-delays.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd -Develop-a-movie-recommendation-engine
+$ cd -Anticipate-aircraft-flight-delays
 ```
 
 
