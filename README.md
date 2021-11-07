@@ -5,7 +5,7 @@
 <img src = "https://www.ladn.eu/wp-content/uploads/2017/04/openclassrooms-supelec.png" alt="centrale logo" width="15%">
 
 # Movies site  : Anticipate the flight delay of planes
-The goal of this project is to built an  application , which allow to recommend 5 similar films to the user based on a first film name or id.  
+This goal of this project is to give a model, which could help <a href="https://airdata.com/">Airdata</a> to predict flight delay and optimize logistics. 
 
 [site](https://prediction-retard-avions.herokuapp.com/)
 
