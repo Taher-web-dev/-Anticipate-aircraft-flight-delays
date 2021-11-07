@@ -1,7 +1,83 @@
-# Anticipez-le-retard-de-vol-des-avions
-This project aim to provide a simple site , which allow to predict the flight delay. This  project contains the following files:     
-Analyse exploratoire : This file allow to do cleaning and data exploration.  
-code.py : allow to test various models and various hyperparameter to define the best model .  
-Projet 4_ Anticipez le retard de vol des avions : This file shows slides which represent the problamatic , the methodology and the results obtained in the project.  
+ 
+
+
+
+<img src = "https://www.ladn.eu/wp-content/uploads/2017/04/openclassrooms-supelec.png" alt="centrale logo" width="15%">
+
+# Movies site  : Anticipate the flight delay of planes
+The goal of this project is to built an  application , which allow to recommend 5 similar films to the user based on a first film name or id.  
 
 [site](https://prediction-retard-avions.herokuapp.com/)
+
+## Built With 🔨
+
+- Python 
+- Scikit-Learn
+- Flask
+- supervised machine learning.
+- Heroku
+- html
+
+## Project presentation
+
+[Live Demo Link](https://www.youtube.com/watch?v=uzrCQMTUeMo&list=PLl2tX_AjHqW_9Nh29QwrFsIkQKCVP6h8n)
+
+### Install
+
+To get a local copy up and running follow these simple example steps.
+- Open terminal
+- Clone this project by the command: 
+
+```
+$ git clone git@github.com:Taher-web-dev/-Develop-a-movie-recommendation-engine.git
+```
+
+- Then go to the main folder using the next command:
+
+```
+$ cd -Develop-a-movie-recommendation-engine
+```
+
+
+
+
+### Prerequisites
+
+- IDE to edit and run the code (We use Jupyter Notebook 🔥).
+- Git to versionning your work.
+
+
+### Usage
+
+- Data scientist practioner.
+- For anyone interested by flight delay.
+
+
+## Authors
+
+👤 **Taher Haggui**
+
+- GitHub: [@TaherHaggui](https://github.com/Taher-web-dev)
+- LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/taher-haggui-66b5a6198/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## Acknowledgments
+- Openclassroom  💘 (https://openclassrooms.com/fr/)
+- CentraleSupelec 💘(https://www.centralesupelec.fr/)
+- 
+- My family's support 🙌
+
+## 📝 License
+
+This project is [Openclassroom](https://openclassrooms.com/fr/) licensed.
