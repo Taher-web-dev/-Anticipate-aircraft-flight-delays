@@ -4,7 +4,7 @@
 
 <img src = "https://www.ladn.eu/wp-content/uploads/2017/04/openclassrooms-supelec.png" alt="centrale logo" width="15%">
 
-# Movies site  : Anticipate the flight delay of planes
+# Anticipate the flight delay of planes
 This goal of this project is to give a model, which could help <a href="https://airdata.com/">Airdata</a> to predict flight delay and optimize logistics. 
 
 [site](https://prediction-retard-avions.herokuapp.com/)
